@@ -20,4 +20,4 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=t-kusakabe&theme=onedark)]()
 
-[![My Skills](https://skillicons.dev/icons?i=aws,babel,bash,bootstrap,css,dart,docker,elasticsearch,elixir,express,firebase,flutter,gatsby,gcp,git,go,graphql,gulp,heroku,html,js,jest,kubernetes,laravel,linux,mysql,nextjs,nginx,nodejs,perl,php,postgres,pug,puppeteer,py,rails,react,redis,redux,ruby,sass,selenium,tailwind,ts,vagrant,vue,webpack&theme=dark&perline=16)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,babel,bash,bootstrap,css,dart,docker,elasticsearch,elixir,express,firebase,flutter,gatsby,gcp,git,go,graphql,gulp,heroku,html,js,jest,kubernetes,laravel,linux,mysql,nextjs,nginx,nodejs,perl,php,postgres,pug,py,rails,react,redis,redux,ruby,sass,selenium,tailwind,ts,vue,webpack&theme=dark&perline=16)](https://skillicons.dev)
